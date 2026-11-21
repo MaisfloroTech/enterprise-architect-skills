@@ -10,6 +10,21 @@ Estas skills nacieron de hacer el curso **"Arquitectura Empresarial: De la Estra
 
 **Este repo no resuelve el caso.** Te ayuda a darles forma a los entregables. Resolverlo requiere estudiar, entender el contexto y considerar escenarios; estas skills te ayudan a plasmar ese trabajo en una estructura de borrador inicial, que después tú revisas, ajustas y defiendes.
 
+## 🧭 Cómo usarlas
+
+Úsalas en orden, una por punto del caso. Cada skill toma lo que cerraste en la anterior, así que no conviene saltarse pasos. Cierra cada punto antes de pasar al siguiente: revisa el borrador, corrígelo y apruébalo.
+
+1. **`1-ea-scope-and-objectives`: ¿qué problema resolvemos?** Separa el problema que te cuentan del problema real, define qué entra y qué queda fuera, y fija objetivos con un responsable y un plazo en días.
+2. **`2-ea-stakeholder-map`: ¿quién está en juego?** Mapea a cada persona: su poder, su postura, qué le importa y qué conversar con ella, con una redacción que puedes mostrarle.
+3. **`3-ea-diagnosis-findings`: ¿qué encontramos que nadie dice?** Ordena las malas noticias: qué riesgo traen, qué oportunidad esconden, con quién se conversan primero y qué se hace si el riesgo se cumple.
+4. **`4-ea-capabilities`: ¿qué proponemos?** Arma la propuesta de arquitectura: qué debe saber hacer el negocio, qué tan preparado está, dónde apostar, quién responde por cada cosa, qué se decide y en qué orden.
+5. **`5-ea-stakeholder-conversations`: ¿cómo alineamos a cada persona?** Prepara las conversaciones uno a uno para que nadie llegue sorprendido a la reunión grupal.
+6. **`6-ea-governance`: ¿cómo decidimos y avanzamos juntos?** Diseña la primera reunión y el gobierno: comité, frentes de trabajo, cadencias, reporte semanal y escalada.
+7. **`7-ea-next-steps-and-plan-b`: ¿qué sigue y qué pasa si sale mal?** Define los próximos pasos de los días 15 a 90 y el plan B si la primera reunión no funciona.
+8. **`8-ea-glossary`: ¿hablamos todos el mismo idioma?** Explica quién es quién y qué significa cada término, sin siglas sueltas.
+
+Al final, **`ea-unified-case-excel`** junta todos los puntos cerrados en un solo Excel, con una pestaña por punto. Solo unifica: no crea contenido.
+
 ## 🧰 Skills
 
 El número de cada nombre es el orden en que se usan en un caso.
@@ -48,6 +63,21 @@ Skills that help enterprise architects shape the deliverables of a case step by 
 These skills came from taking the course **"Arquitectura Empresarial: De la Estrategia a la Tecnología"** by **Daniel Dughman Manzur**, as a study aid for enterprise architecture cases.
 
 **This repo does not solve the case.** It helps you shape the deliverables. Solving it takes study, understanding the context and weighing scenarios; these skills help you put that work into a first-draft structure that you then review, adjust and defend.
+
+### 🧭 How to use them
+
+Use them in order, one per point of the case. Each skill builds on what you closed in the previous one, so skipping steps is not a good idea. Close each point before moving on: review the draft, correct it and approve it.
+
+1. **`1-ea-scope-and-objectives`: what problem are we solving?** It separates the problem you are told from the real one, sets what is in and out of scope, and defines objectives with one owner and a deadline in days.
+2. **`2-ea-stakeholder-map`: who is at stake?** It maps each person: their power, stance, what they care about and what to discuss with them, in wording you can show them.
+3. **`3-ea-diagnosis-findings`: what did we find that nobody says?** It organises the bad news: the risk it brings, the opportunity it hides, who hears it first and what happens if the risk materialises.
+4. **`4-ea-capabilities`: what do we propose?** It builds the architecture proposal: what the business must be able to do, how ready it is, where to bet, who owns what, what gets decided and in what order.
+5. **`5-ea-stakeholder-conversations`: how do we align each person?** It prepares the one-to-one conversations so nobody arrives surprised at the group meeting.
+6. **`6-ea-governance`: how do we decide and move forward together?** It designs the first meeting and the governance: committee, workstreams, cadence, weekly report and escalation.
+7. **`7-ea-next-steps-and-plan-b`: what comes next, and what if it goes wrong?** It sets the next steps from day 15 to 90 and the plan B if the first meeting does not work.
+8. **`8-ea-glossary`: are we all speaking the same language?** It explains who is who and what each term means, with no loose acronyms.
+
+At the end, **`ea-unified-case-excel`** puts every closed point in one Excel workbook, one tab per point. It only unifies: it creates no content.
 
 ### 🧰 Skills
 
