@@ -30,7 +30,10 @@
     "one-to-one",
     "stakeholder-alignment",
     "excel",
-    "workbook"
+    "workbook",
+    "governance",
+    "steering-committee",
+    "escalation"
   ],
   "skills": [
     "./1-ea-scope-and-objectives",
@@ -38,6 +41,7 @@
     "./3-ea-diagnosis-findings",
     "./4-ea-capabilities",
     "./5-ea-stakeholder-conversations",
+    "./6-ea-governance",
     "./ea-unified-case-excel"
   ]
 }

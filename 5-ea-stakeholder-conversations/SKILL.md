@@ -5,7 +5,7 @@ description: Prepares the one-to-one conversations an enterprise architect holds
 
 # EA stakeholder conversations
 
-**Step 5 of the case method.** Previous: `4-ea-capabilities`. Use the people from `2-ea-stakeholder-map`, the findings from `3-ea-diagnosis-findings` and the owners and roles from `4-ea-capabilities`.
+**Step 5 of the case method.** Previous: `4-ea-capabilities`. Next: `6-ea-governance`. Use the people from `2-ea-stakeholder-map`, the findings from `3-ea-diagnosis-findings` and the owners and roles from `4-ea-capabilities`.
 
 Help an enterprise architect plan the private conversations that happen before anything is decided in a group. The rule behind all of them: **nobody hears something important for the first time in a committee.**
 

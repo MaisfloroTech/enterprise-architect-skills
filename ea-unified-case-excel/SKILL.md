@@ -1,11 +1,11 @@
 ---
 name: ea-unified-case-excel
-description: Unifies the closed sections of an enterprise architecture case into one Excel workbook, one tab per section, and later adds only the tabs that are missing. It does not create or rewrite content; the sections come from the numbered case skills (1-ea-scope-and-objectives, 2-ea-stakeholder-map, 3-ea-diagnosis-findings, 4-ea-capabilities, 5-ea-stakeholder-conversations and the ones that follow). Use this whenever someone wants to put the case together, consolidate, export or deliver the points of a case in a spreadsheet or Excel file, or add a new point to an existing case workbook.
+description: Unifies the closed sections of an enterprise architecture case into one Excel workbook, one tab per section, and later adds only the tabs that are missing. It does not create or rewrite content; the sections come from the numbered case skills (1-ea-scope-and-objectives, 2-ea-stakeholder-map, 3-ea-diagnosis-findings, 4-ea-capabilities, 5-ea-stakeholder-conversations, 6-ea-governance and the ones that follow). Use this whenever someone wants to put the case together, consolidate, export or deliver the points of a case in a spreadsheet or Excel file, or add a new point to an existing case workbook.
 ---
 
 # EA unified case Excel
 
-> **This skill only unifies.** It does not solve any part of the case. Each section must be built and closed first with its own skill (`1-ea-scope-and-objectives`, `2-ea-stakeholder-map`, `3-ea-diagnosis-findings`, `4-ea-capabilities`, `5-ea-stakeholder-conversations`, and the next numbered steps). If a section is missing or not closed, say which skill to invoke and stop for that section; never draft it here.
+> **This skill only unifies.** It does not solve any part of the case. Each section must be built and closed first with its own skill (`1-ea-scope-and-objectives`, `2-ea-stakeholder-map`, `3-ea-diagnosis-findings`, `4-ea-capabilities`, `5-ea-stakeholder-conversations`, `6-ea-governance`, and the next numbered steps). If a section is missing or not closed, say which skill to invoke and stop for that section; never draft it here.
 
 ## What it delivers
 
