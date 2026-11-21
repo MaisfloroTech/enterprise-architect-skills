@@ -5,7 +5,7 @@ description: Builds the stakeholder map of an enterprise architecture case in po
 
 # EA stakeholder map
 
-**Step 2 of the case method.** Previous: `1-ea-scope-and-objectives` (use its scope and objectives as input).
+**Step 2 of the case method.** Previous: `1-ea-scope-and-objectives` (use its scope and objectives as input). Next: `3-ea-diagnosis-findings`.
 
 Help an enterprise architect turn a case and their notes into a stakeholder map that can be shown to the people in it: what each person needs, what each person risks, and what to talk about with each of them, without judging anyone.
 

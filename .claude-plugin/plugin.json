@@ -18,10 +18,14 @@
     "case-study",
     "interview-prep",
     "stakeholders",
-    "stakeholder-map"
+    "stakeholder-map",
+    "findings",
+    "risk",
+    "contingency"
   ],
   "skills": [
     "./1-ea-scope-and-objectives",
-    "./2-ea-stakeholder-map"
+    "./2-ea-stakeholder-map",
+    "./3-ea-diagnosis-findings"
   ]
 }
