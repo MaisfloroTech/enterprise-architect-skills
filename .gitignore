@@ -1,4 +1,5 @@
-# Never commit images, screenshots or case files (they may contain private data)
+# Never commit course material, case files, images or screenshots
+# (they belong to their authors or may contain private data)
 *.png
 *.jpg
 *.jpeg
@@ -6,6 +7,20 @@
 *.webp
 *.heic
 *.pdf
+*.xlsx
+*.xls
+*.csv
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.vtt
+*.srt
+*.zip
 
 # OS / editor
 .DS_Store
