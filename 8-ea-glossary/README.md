@@ -1,10 +1,8 @@
-[← All skills · Todos los skills](../README.md)
+[← Todas las skills](../README.md)
 
 # 📖 8-ea-glossary
 
-*The whole case → one shared vocabulary, with no acronym left alone.*
-
-## 🇪🇸 Español
+*Todo el caso → un vocabulario común, sin siglas sueltas.*
 
 - Tabla de personas: cargo, nombre y rol en la integración.
 - Tabla de términos: primero las siglas, después el resto en orden alfabético, cada uno con una frase simple.
@@ -13,10 +11,21 @@
 
 Nunca inventa hechos.
 
-## 🇺🇸 English
+**Ejemplo:** [`references/example-es.md`](references/example-es.md) (datos ficticios).
 
-Closes the case with two tables: people (job title, name, role) and terms (acronyms first, then alphabetical, one plain sentence each). Every acronym always comes with its full name, and only terms actually used in the case go in. No made-up facts.
+---
 
-## Example
+## English
 
-See [`references/example-es.md`](references/example-es.md) (fictional data).
+[← All skills](../README.md#english)
+
+*The whole case → one shared vocabulary, with no acronym left alone.*
+
+- People table: job title, name and role in the initiative.
+- Terms table: acronyms first, then the rest in alphabetical order, each with one plain sentence.
+- No acronym is left alone: it always comes with its full name, for example "CEO (Chief Executive Officer)".
+- Only terms that actually appear in the case go in.
+
+It never makes up facts.
+
+**Example:** [`references/example-es.md`](references/example-es.md) (fictional data, in Spanish).
