@@ -15,6 +15,7 @@ The number in each name is the order to use them in a case. · El número de cad
 | 3 | [`3-ea-diagnosis-findings`](3-ea-diagnosis-findings/README.md) | Hallazgos negativos clave: riesgo, oportunidad, sensibilidad, cómo se maneja y qué se hace si el riesgo se materializa |
 | 4 | [`4-ea-capabilities`](4-ea-capabilities/README.md) | Propuesta de arquitectura completa: mapa de capacidades con responsables, anclaje, madurez, priorización, equipos, registro de decisión y hoja de ruta en días |
 | 5 | [`5-ea-stakeholder-conversations`](5-ea-stakeholder-conversations/README.md) | Conversaciones uno a uno en una sola tabla: orden, qué le duele a cada persona, hallazgo a revisar, propuesta, qué entrega al día 14 y qué gana |
+| — | [`ea-unified-case-excel`](ea-unified-case-excel/README.md) | Une los puntos cerrados en un solo Excel, una pestaña por punto. Solo unifica: cada punto se construye con su propia skill |
 
 More skills coming: governance and next steps.
 
