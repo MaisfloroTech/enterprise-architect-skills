@@ -35,7 +35,8 @@
     "steering-committee",
     "escalation",
     "plan-b",
-    "next-steps"
+    "next-steps",
+    "glossary"
   ],
   "skills": [
     "./1-ea-scope-and-objectives",
@@ -45,6 +46,7 @@
     "./5-ea-stakeholder-conversations",
     "./6-ea-governance",
     "./7-ea-next-steps-and-plan-b",
+    "./8-ea-glossary",
     "./ea-unified-case-excel"
   ]
 }

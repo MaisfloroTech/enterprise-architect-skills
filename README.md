@@ -17,9 +17,9 @@ The number in each name is the order to use them in a case. · El número de cad
 | 5 | [`5-ea-stakeholder-conversations`](5-ea-stakeholder-conversations/README.md) | Conversaciones uno a uno en una sola tabla: orden, qué le duele a cada persona, hallazgo a revisar, propuesta, qué entrega al día 14 y qué gana |
 | 6 | [`6-ea-governance`](6-ea-governance/README.md) | Primera reunión del comité y gobierno: estructura, frentes, cadencias, reporte semanal, semáforo con escalada y registro de riesgos |
 | 7 | [`7-ea-next-steps-and-plan-b`](7-ea-next-steps-and-plan-b/README.md) | Próximos pasos por frente de los días 15 a 90 y plan B si la primera reunión sale mal, con relanzamiento con el CEO |
+| 8 | [`8-ea-glossary`](8-ea-glossary/README.md) | Glosario: personas con su cargo y rol, y términos del caso; ninguna sigla queda sin su nombre completo |
 | — | [`ea-unified-case-excel`](ea-unified-case-excel/README.md) | Une los puntos cerrados en un solo Excel, una pestaña por punto. Solo unifica: cada punto se construye con su propia skill |
 
-More skills coming: glossary.
 
 ## Install
 

@@ -5,7 +5,7 @@ description: Writes the next steps and the plan B of an enterprise architecture 
 
 # EA next steps and plan B
 
-**Step 7 of the case method.** Previous: `6-ea-governance`. Use the 90-day commitment from `1-ea-scope-and-objectives`, the contingencies from `3-ea-diagnosis-findings`, the situations in which the CEO wants to be reached from `5-ea-stakeholder-conversations`, and the workstreams and escalation from step 6.
+**Step 7 of the case method.** Previous: `6-ea-governance`. Next: `8-ea-glossary`. Use the 90-day commitment from `1-ea-scope-and-objectives`, the contingencies from `3-ea-diagnosis-findings`, the situations in which the CEO wants to be reached from `5-ea-stakeholder-conversations`, and the workstreams and escalation from step 6.
 
 Help an enterprise architect show two things: what happens after the first meeting, and what they will do if it goes wrong. The second one is what most candidates and architects leave out.
 
