@@ -15,8 +15,14 @@ Spec:
      "bold_first": false, "merge_last_to": null},
     {"type": "gap"}]}]}
 
-Cells starting with "=" are written as formulas. Use {row} inside a formula to
-refer to the current row and {first} for the first data row of the same table.
+Cells starting with "=" are written as formulas. Placeholders inside a formula:
+  {row}        current row
+  {first}      first data row of the same table
+  {first:ID}   first data row of the table whose "id" is ID (same sheet, written earlier)
+  {same:ID}    row of table ID at the same position as the current row
+               (use it when both tables list the same items in the same order,
+               for example the gap that reads the maturity row of the same capability)
+Give a table an "id" to reference it: {"type": "table", "id": "maturity", ...}.
 """
 import json, sys, os
 from openpyxl import Workbook, load_workbook
@@ -35,6 +41,7 @@ def write_sheet(wb, spec):
     for i, w in enumerate(widths, 1):
         ws.column_dimensions[chr(64 + i)].width = w
     span = max(len(widths), 2)
+    anchors = {}
     r = 1
     for b in spec["blocks"]:
         t = b["type"]
@@ -63,19 +70,24 @@ def write_sheet(wb, spec):
                 ws.merge_cells(start_row=r, start_column=len(head), end_row=r, end_column=m)
             r += 1
             first = r
-            for row in rows:
+            if b.get("id"):
+                anchors[b["id"]] = first
+            for idx, row in enumerate(rows):
                 for j, v in enumerate(row, 1):
                     if isinstance(v, str) and v.startswith("="):
                         v = v.replace("{row}", str(r)).replace("{first}", str(first))
+                        for name, start in anchors.items():
+                            v = v.replace("{first:%s}" % name, str(start))
+                            v = v.replace("{same:%s}" % name, str(start + idx))
                     c = ws.cell(r, j, v)
                     c.font = Font(name=FONT, size=10, bold=(b.get("bold_first") and j == 1))
                     c.alignment = Alignment(wrap_text=True, vertical="top")
                     c.border = BOX
-                    if isinstance(v, str) and v.startswith("=") and "/" in v or (isinstance(v, str) and "0.5*" in v):
+                    if isinstance(v, str) and v.startswith("=") and ("/" in v or "*" in v):
                         c.number_format = "0.0"
                 if m:
                     ws.merge_cells(start_row=r, start_column=len(row), end_row=r, end_column=m)
-                    ws.row_dimensions[r].height = max(15, 14 * (len(str(row[-1])) // 110 + 1))
+                    ws.row_dimensions[r].height = max(15, 14 * (max(len(str(x)) for x in row) // 55 + 1))
                 r += 1
             r += 1
     ws.page_setup.orientation = "landscape"
@@ -98,7 +110,10 @@ def main():
         if s["name"][:31] in existing:
             continue
         write_sheet(wb, s); added.append(s["name"])
-    wb._sheets.sort(key=lambda w: w.title)
+    def order(w):
+        head = w.title.split(" ", 1)[0]
+        return (int(head) if head.isdigit() else 999, w.title)
+    wb._sheets.sort(key=order)
     wb.save(out)
     print(json.dumps({"added": added, "kept": sorted(existing)}, ensure_ascii=False))
 

@@ -13,8 +13,8 @@ One `.xlsx` workbook with one tab per closed section, named with its number ("1 
 
 ## Flow
 
-1. **Collect the closed sections** from the conversation (or from files the user gives). Use the **last version the user approved** of each one, word for word. Do not shorten, reword or "improve" it.
-2. **Apply only the corrections the user already made** that affect earlier sections (a job title that changed, an owner that moved). Tell the user in one line which ones were applied.
+1. **Collect the closed sections** from the conversation (or from files the user gives). Use the **last version the user approved** of each one, word for word. Do not shorten, reword or "improve" it. If a section is no longer in view (a long conversation, a summary), go back and read the turn where it was approved; never rebuild it from a summary or from memory.
+2. **Apply only the corrections the user already made** that affect earlier sections (a job title that changed, an owner that moved, the name of an area). Tell the user in one line which ones were applied. A correction the user has not confirmed (for example, a rule you proposed for earlier sections) is not applied: ask.
 3. **Read the `xlsx` skill** before building, and follow its rules (Arial, zero formula errors, recalculation).
 4. **Write a JSON spec** and run `scripts/build_workbook.py` (see its docstring for the format):
    - New workbook: `python scripts/build_workbook.py spec.json "<Case name>.xlsx"`
@@ -29,12 +29,16 @@ One `.xlsx` workbook with one tab per closed section, named with its number ("1 
 - **Formulas where the section has calculations,** so the user can change a score and see the result move:
   - Anchoring total: `=SUM(B{row}:G{row})`.
   - Impact: `=MAX(B{row}:E{row})+0.5*(SUM(B{row}:E{row})-MAX(B{row}:E{row}))`.
-  - Gap: `=4-MIN(<maturity row>)`, pointing to the row of the same capability in the maturity table.
+  - Gap: `=4-MIN(B{same:maturity}:E{same:maturity})`, pointing to the row of the same capability in the maturity table (give that table `"id": "maturity"` and list the capabilities in the same order in both tables).
   - Opportunity: `=gap*feasibility*value/4`.
   - Check after recalculation that every formula gives the number the approved section shows.
-- **No abbreviations** beyond what the approved sections already use, and deadlines in days.
+- **No acronym alone.** Keep the acronyms exactly as the approved sections write them; the glossary (`8-ea-glossary`) writes each one with its full name, for example "CEO (Chief Executive Officer)". Deadlines in days.
 - **Long text columns** get wide columns or a merged cell, so rows stay readable.
 
 ## Updating a workbook in a cloud drive
 
-Some drive connections can upload a new file but cannot replace the contents of an existing one. In that case, upload the updated workbook as a new file with the same name, then **ask the user** before moving the previous version to the trash, so only one version remains.
+Some drive connections can upload a new file but cannot replace the contents of an existing one. In that case:
+
+1. Rebuild the workbook with every closed section (the existing tabs exactly as they were, plus the new ones) and upload it as a new file with the same name, without converting it to the drive's own spreadsheet format.
+2. **Ask the user** before moving the previous version to the trash, so only one version remains, and tell them it can be recovered from the trash.
+3. When several changes are pending (a new section plus a correction to an earlier one), batch them into one upload instead of one per change.
