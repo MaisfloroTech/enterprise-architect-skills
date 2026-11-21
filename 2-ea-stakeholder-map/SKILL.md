@@ -1,9 +1,11 @@
 ---
-name: ea-stakeholder-map
+name: 2-ea-stakeholder-map
 description: Builds the stakeholder map of an enterprise architecture case in political, document-safe language. For each person it states power, stance, what they care about, strength, risk and what to talk about in a one-to-one conversation; adds a general reading of the tensions, the current affinities, a 14-day workload survey for every director and a list of open questions. Use this whenever an architect, consultant or candidate needs to understand who decides what in a case, prepare stakeholder conversations, unblock an executive deadlock, or present stakeholders in a deck without exposing anyone, even if they never say "stakeholder". Works from the case text and the user's notes. Never invents facts and never writes personal traits.
 ---
 
 # EA stakeholder map
+
+**Step 2 of the case method.** Previous: `1-ea-scope-and-objectives` (use its scope and objectives as input).
 
 Help an enterprise architect turn a case and their notes into a stakeholder map that can be shown to the people in it: what each person needs, what each person risks, and what to talk about with each of them, without judging anyone.
 

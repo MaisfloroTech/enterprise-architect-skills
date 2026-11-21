@@ -1,6 +1,6 @@
 # Ejemplo (datos ficticios)
 
-Mismo caso ficticio que `ea-scope-and-objectives`: Transportes Cóndor compró EnvíoYa para lanzar un servicio de entrega en el mismo día, y el comité ejecutivo no logra acordar cómo integrar ambas operaciones.
+Mismo caso ficticio que `1-ea-scope-and-objectives`: Transportes Cóndor compró EnvíoYa para lanzar un servicio de entrega en el mismo día, y el comité ejecutivo no logra acordar cómo integrar ambas operaciones.
 
 ---
 

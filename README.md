@@ -6,10 +6,12 @@ Skills para arquitectos empresariales que resuelven casos reales paso a paso, en
 
 ## 🧰 Skills
 
+The number in each name is the order to use them in a case. · El número de cada nombre es el orden en que se usan en un caso.
+
 | # | Skill | Qué hace |
 |---|---|---|
-| 1 | [`ea-scope-and-objectives`](ea-scope-and-objectives/README.md) | Alcance, objetivo general, objetivos con responsable y plazo en días, compromiso de 90 días y preguntas abiertas |
-| 2 | [`ea-stakeholder-map`](ea-stakeholder-map/README.md) | Mapa de stakeholders con redacción política: poder, postura, intereses, riesgos, qué conversar en la 1:1, afinidades y levantamiento de 14 días |
+| 1 | [`1-ea-scope-and-objectives`](1-ea-scope-and-objectives/README.md) | Alcance, objetivo general, objetivos con responsable y plazo en días, compromiso de 90 días y preguntas abiertas |
+| 2 | [`2-ea-stakeholder-map`](2-ea-stakeholder-map/README.md) | Mapa de stakeholders con redacción política: poder, postura, intereses, riesgos, qué conversar en la 1:1, afinidades y levantamiento de 14 días |
 
 More skills coming: key findings, capability map, maturity, prioritisation, integration decision, one-to-one conversations and governance.
 

@@ -1,6 +1,6 @@
 [← All skills · Todos los skills](../README.md)
 
-# 🧭 ea-stakeholder-map
+# 🧭 2-ea-stakeholder-map
 
 *A case and your notes in → a stakeholder map you can show to the people in it.*
 

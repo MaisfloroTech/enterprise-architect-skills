@@ -1,6 +1,6 @@
 [← All skills · Todos los skills](../README.md)
 
-# 🎯 ea-scope-and-objectives
+# 🎯 1-ea-scope-and-objectives
 
 *A messy case in → a scope and objectives the executive committee recognises.*
 

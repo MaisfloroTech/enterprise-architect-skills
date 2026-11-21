@@ -21,7 +21,7 @@
     "stakeholder-map"
   ],
   "skills": [
-    "./ea-scope-and-objectives",
-    "./ea-stakeholder-map"
+    "./1-ea-scope-and-objectives",
+    "./2-ea-stakeholder-map"
   ]
 }

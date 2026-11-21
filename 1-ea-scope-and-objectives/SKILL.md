@@ -1,9 +1,11 @@
 ---
-name: ea-scope-and-objectives
+name: 1-ea-scope-and-objectives
 description: Defines the scope and objectives of an enterprise architecture case before any map, diagram or roadmap is drawn. Separates the stated problem from the real one, lists the key negative findings, sets the scope (name, level, what is in and what is out), writes a general objective as a business outcome, breaks it into 4–6 objectives with the executive accountable for each and a deadline in days, and closes with a 90-day commitment with milestones at day 14, 30, 60 and 90. Use this whenever an architect, consultant or candidate needs to frame a case, scope an initiative (merger, integration, migration, new product, transformation), write objectives leadership will accept, or prepare an architecture case for an interview, even if they never say "scope". Keeps a list of open questions instead of assuming. Never invents numbers, dates or facts.
 ---
 
 # EA scope and objectives
+
+**Step 1 of the case method.** Next: `2-ea-stakeholder-map`.
 
 Help an enterprise architect frame a case **before** drawing anything: what problem we are really solving, what is in and out, what the business must achieve, who answers for each result, and what gets done in the first 90 days.
 
