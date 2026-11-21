@@ -1,0 +1,24 @@
+{
+  "name": "enterprise-architect-skills",
+  "displayName": "Enterprise Architect Skills",
+  "description": "Skills that help enterprise architects solve real cases step by step: scope, objectives, stakeholders, capabilities and decisions that executives can act on. No made-up numbers.",
+  "author": {
+    "name": "@maisfloro.tech",
+    "url": "https://www.maisfloro.com/"
+  },
+  "homepage": "https://github.com/MaisfloroTech/enterprise-architect-skills",
+  "repository": "https://github.com/MaisfloroTech/enterprise-architect-skills",
+  "keywords": [
+    "enterprise-architecture",
+    "business-capabilities",
+    "scope",
+    "objectives",
+    "smart-goals",
+    "roadmap",
+    "case-study",
+    "interview-prep"
+  ],
+  "skills": [
+    "./ea-scope-and-objectives"
+  ]
+}

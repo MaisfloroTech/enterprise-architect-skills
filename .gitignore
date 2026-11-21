@@ -1,0 +1,14 @@
+# Never commit images, screenshots or case files (they may contain private data)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.heic
+*.pdf
+
+# OS / editor
+.DS_Store
+__pycache__/
+.vscode/
+.idea/

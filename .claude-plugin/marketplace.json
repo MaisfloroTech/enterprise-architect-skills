@@ -1,0 +1,15 @@
+{
+  "name": "enterprise-architect-skills",
+  "description": "Skills that help enterprise architects turn messy business cases into decisions executives can act on.",
+  "owner": {
+    "name": "MaisfloroTech",
+    "url": "https://github.com/MaisfloroTech"
+  },
+  "plugins": [
+    {
+      "name": "enterprise-architect-skills",
+      "source": "./",
+      "description": "Step-by-step skills for enterprise architecture cases. First skill: scope and objectives, with an executive accountable for each objective, deadlines in days and a 90-day commitment. No made-up numbers."
+    }
+  ]
+}
