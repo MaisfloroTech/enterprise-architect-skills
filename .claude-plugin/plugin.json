@@ -21,11 +21,17 @@
     "stakeholder-map",
     "findings",
     "risk",
-    "contingency"
+    "contingency",
+    "capability-map",
+    "maturity",
+    "prioritisation",
+    "adr",
+    "team-topologies"
   ],
   "skills": [
     "./1-ea-scope-and-objectives",
     "./2-ea-stakeholder-map",
-    "./3-ea-diagnosis-findings"
+    "./3-ea-diagnosis-findings",
+    "./4-ea-capabilities"
   ]
 }

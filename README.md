@@ -13,8 +13,9 @@ The number in each name is the order to use them in a case. · El número de cad
 | 1 | [`1-ea-scope-and-objectives`](1-ea-scope-and-objectives/README.md) | Alcance, objetivo general, objetivos con responsable y plazo en días, compromiso de 90 días y preguntas abiertas |
 | 2 | [`2-ea-stakeholder-map`](2-ea-stakeholder-map/README.md) | Mapa de stakeholders con redacción política: poder, postura, intereses, riesgos, qué conversar en la 1:1, afinidades y levantamiento de 14 días |
 | 3 | [`3-ea-diagnosis-findings`](3-ea-diagnosis-findings/README.md) | Hallazgos negativos clave: riesgo, oportunidad, sensibilidad, cómo se maneja y qué se hace si el riesgo se materializa |
+| 4 | [`4-ea-capabilities`](4-ea-capabilities/README.md) | Propuesta de arquitectura completa: mapa de capacidades con responsables, anclaje, madurez, priorización, equipos, registro de decisión y hoja de ruta en días |
 
-More skills coming: capability map, maturity, prioritisation, integration decision, one-to-one conversations and governance.
+More skills coming: one-to-one conversations, governance and next steps.
 
 ## Install
 

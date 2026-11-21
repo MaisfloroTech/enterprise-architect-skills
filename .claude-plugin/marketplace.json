@@ -9,7 +9,7 @@
     {
       "name": "enterprise-architect-skills",
       "source": "./",
-      "description": "Step-by-step skills for enterprise architecture cases: scope and objectives, a political stakeholder map, and key diagnosis findings with risks, opportunities and contingencies. No made-up numbers."
+      "description": "Step-by-step skills for enterprise architecture cases: scope and objectives, a political stakeholder map, key diagnosis findings, and a capability-based architecture proposal with maturity, priorities, teams, an architecture decision record and a roadmap. No made-up numbers."
     }
   ]
 }
