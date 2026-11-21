@@ -1,8 +1,16 @@
 # Enterprise Architect Skills
 
-Skills that help enterprise architects solve real cases step by step, in the language executives act on. In Spanish or English. No made-up numbers.
+Skills that help enterprise architects shape the deliverables of a case step by step, in the language executives act on. In Spanish or English. No made-up numbers.
 
-Skills para arquitectos empresariales que resuelven casos reales paso a paso, en el lenguaje en que deciden los ejecutivos. En español o inglés. Sin números inventados.
+Skills para arquitectos empresariales que ayudan a dar forma a los entregables de un caso paso a paso, en el lenguaje en que deciden los ejecutivos. En español o inglés. Sin números inventados.
+
+## 📚 Sobre este repo · About this repo
+
+Estas skills nacieron de hacer el curso **"Arquitectura Empresarial: De la Estrategia a la Tecnología"**, de **Daniel Dughman Manzur**, como apoyo para estudiar casos de arquitectura empresarial.
+
+**Este repo no resuelve el caso.** Te ayuda a darles forma a los entregables. Resolverlo requiere estudiar, entender el contexto y considerar escenarios; estas skills te ayudan a plasmar ese trabajo en una estructura de borrador inicial, que después tú revisas, ajustas y defiendes.
+
+These skills came from taking the course **"Arquitectura Empresarial: De la Estrategia a la Tecnología"** by **Daniel Dughman Manzur**, as a study aid for enterprise architecture cases. **This repo does not solve the case.** It helps you shape the deliverables: solving it takes study, context and weighing scenarios, and these skills help you put that work into a first-draft structure that you then review, adjust and defend.
 
 ## 🧰 Skills
 
