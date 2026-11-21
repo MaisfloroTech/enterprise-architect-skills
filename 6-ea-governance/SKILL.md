@@ -5,7 +5,7 @@ description: Designs the first committee meeting and the governance of an enterp
 
 # EA governance
 
-**Step 6 of the case method.** Previous: `5-ea-stakeholder-conversations`. Use the objectives from `1-ea-scope-and-objectives`, the owners from `4-ea-capabilities`, and what each person delivers by day 14 and the situations in which the CEO wants to be reached from step 5.
+**Step 6 of the case method.** Previous: `5-ea-stakeholder-conversations`. Next: `7-ea-next-steps-and-plan-b`. Use the objectives from `1-ea-scope-and-objectives`, the owners from `4-ea-capabilities`, and what each person delivers by day 14 and the situations in which the CEO wants to be reached from step 5.
 
 Help an enterprise architect turn agreements reached one by one into a group that decides: a first meeting with no surprises, and a governance that keeps working when the architect is not in the room.
 

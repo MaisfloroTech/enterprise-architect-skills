@@ -33,7 +33,9 @@
     "workbook",
     "governance",
     "steering-committee",
-    "escalation"
+    "escalation",
+    "plan-b",
+    "next-steps"
   ],
   "skills": [
     "./1-ea-scope-and-objectives",
@@ -42,6 +44,7 @@
     "./4-ea-capabilities",
     "./5-ea-stakeholder-conversations",
     "./6-ea-governance",
+    "./7-ea-next-steps-and-plan-b",
     "./ea-unified-case-excel"
   ]
 }
