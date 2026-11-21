@@ -5,7 +5,7 @@ description: Builds the full architecture proposal of an enterprise architecture
 
 # EA capabilities
 
-**Step 4 of the case method.** Previous: `3-ea-diagnosis-findings`. Use the objectives and owners from `1-ea-scope-and-objectives`, the people from `2-ea-stakeholder-map` and the findings from step 3 as evidence.
+**Step 4 of the case method.** Previous: `3-ea-diagnosis-findings`. Next: `5-ea-stakeholder-conversations`. Use the objectives and owners from `1-ea-scope-and-objectives`, the people from `2-ea-stakeholder-map` and the findings from step 3 as evidence.
 
 Help an enterprise architect turn a case into an architecture proposal that executives can approve: what the company must be able to do, how ready it is, where to bet, who owns what, which decision to take and in what order.
 

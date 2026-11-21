@@ -14,8 +14,9 @@ The number in each name is the order to use them in a case. · El número de cad
 | 2 | [`2-ea-stakeholder-map`](2-ea-stakeholder-map/README.md) | Mapa de stakeholders con redacción política: poder, postura, intereses, riesgos, qué conversar en la 1:1, afinidades y levantamiento de 14 días |
 | 3 | [`3-ea-diagnosis-findings`](3-ea-diagnosis-findings/README.md) | Hallazgos negativos clave: riesgo, oportunidad, sensibilidad, cómo se maneja y qué se hace si el riesgo se materializa |
 | 4 | [`4-ea-capabilities`](4-ea-capabilities/README.md) | Propuesta de arquitectura completa: mapa de capacidades con responsables, anclaje, madurez, priorización, equipos, registro de decisión y hoja de ruta en días |
+| 5 | [`5-ea-stakeholder-conversations`](5-ea-stakeholder-conversations/README.md) | Conversaciones uno a uno en una sola tabla: orden, qué le duele a cada persona, hallazgo a revisar, propuesta, qué entrega al día 14 y qué gana |
 
-More skills coming: one-to-one conversations, governance and next steps.
+More skills coming: governance and next steps.
 
 ## Install
 
