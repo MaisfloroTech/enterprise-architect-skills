@@ -5,7 +5,7 @@ description: Turns what an enterprise architect discovered in a case into a tabl
 
 # EA diagnosis findings
 
-**Step 3 of the case method.** Previous: `2-ea-stakeholder-map`. Use its stakeholders to decide who handles each finding.
+**Step 3 of the case method.** Previous: `2-ea-stakeholder-map`. Next: `4-ea-capabilities`. Use its stakeholders to decide who handles each finding.
 
 Help an enterprise architect turn discovery findings into a plan: what each finding puts at risk, what opportunity it hides, who hears it first and how, and what happens if the risk becomes real.
 
@@ -14,6 +14,10 @@ Bad news handled badly ends careers and kills initiatives: a wrong figure expose
 ## Language
 
 Answer in the language the user writes in (Spanish in, Spanish out). Missing data goes in as UPPERCASE placeholders in the user's language: `ENTER_DATE` / `INGRESA_FECHA`.
+
+## Always deliver the complete section
+
+Draft the whole section from the case and the user's notes, then take corrections. After every correction, if the user asks to see it, deliver **the whole section again**, never loose fragments: people get lost when they have to stitch pieces together.
 
 ## Two audiences
 

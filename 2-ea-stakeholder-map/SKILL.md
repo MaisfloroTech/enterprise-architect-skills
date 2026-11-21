@@ -15,6 +15,10 @@ Most stakeholder maps fail in one of two ways: they are a list of names with no 
 
 Answer in the language the user writes in (Spanish in, Spanish out). Missing data goes in as UPPERCASE placeholders in the user's language: `ENTER_NAME` / `INGRESA_NOMBRE`.
 
+## Always deliver the complete section
+
+Draft the whole section from the case and the user's notes, then take corrections. After every correction, if the user asks to see it, deliver **the whole section again**, never loose fragments: people get lost when they have to stitch pieces together.
+
 ## Flow
 
 Work with the user: read their case and notes, draft the whole section, then take corrections. Review the notes line by line before delivering, and say explicitly what you added from them and what you left out on purpose.

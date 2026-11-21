@@ -38,7 +38,7 @@ Integrar las operaciones de Cóndor y EnvíoYa para recuperar participación en 
 | 1 | Actualizar el caso de negocio de la adquisición: revisión de supuestos clave al día 14 y caso completo al día 60 | CFO (INGRESA_NOMBRE) | Día 0 a 60 |
 | 2 | Asegurar la continuidad operativa y del conocimiento de los sistemas en producción de ambas compañías | CTO (INGRESA_NOMBRE) | Día 0 a 90 |
 | 3 | Integrar sin interrupciones del servicio de despacho | Gerente de Operaciones (INGRESA_NOMBRE) | Desde el día 0 y durante toda la integración |
-| 4 | Conectar las plataformas de Cóndor y EnvíoYa a través de un nuevo integrador | CTO y Gerente Digital (INGRESA_NOMBRE) | Día 0 a 270 |
+| 4 | Conectar las plataformas de Cóndor y EnvíoYa a través de un nuevo integrador | Gerente Digital (INGRESA_NOMBRE), con los estándares técnicos del CTO | Día 0 a 270 |
 | 5 | Habilitar las capacidades comerciales para lanzar nuevos servicios: diseño comercial desde el día 0 y soporte tecnológico desde el día 90 | Gerente Comercial (INGRESA_NOMBRE) | Día 0 a 270 |
 | 6 | Detener la caída de envíos estándar | Gerente Comercial (INGRESA_NOMBRE) | Día 0 a 540 |
 
