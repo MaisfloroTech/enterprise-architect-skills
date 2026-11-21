@@ -6,7 +6,7 @@ Skills para arquitectos empresariales que ayudan a dar forma a los entregables d
 
 ## 📚 Sobre este repo
 
-Estas skills nacieron de hacer el curso **"Arquitectura Empresarial: De la Estrategia a la Tecnología"**, de **Daniel Dughman Manzur**, como apoyo para estudiar casos de arquitectura empresarial.
+He estado estudiando Arquitectura Empresarial con el curso [**"Arquitectura Empresarial: De la Estrategia a la Tecnología"**](https://www.udemy.com/course/arquitectura-empresarial-de-la-estrategia-a-la-tecnologia/) de [Daniel Dughman Manzur](https://www.linkedin.com/in/ddughman/), en Udemy. Me pareció muy bueno, y decidí hacer estas skills para compartir con la comunidad lo que aprendí, como apoyo para estudiar casos de arquitectura empresarial.
 
 **Este repo no resuelve el caso.** Te ayuda a darles forma a los entregables. Resolverlo requiere estudiar, entender el contexto y considerar escenarios; estas skills te ayudan a plasmar ese trabajo en una estructura de borrador inicial, que después tú revisas, ajustas y defiendes.
 
@@ -60,7 +60,7 @@ Skills that help enterprise architects shape the deliverables of a case step by 
 
 ### 📚 About this repo
 
-These skills came from taking the course **"Arquitectura Empresarial: De la Estrategia a la Tecnología"** by **Daniel Dughman Manzur**, as a study aid for enterprise architecture cases.
+I have been studying Enterprise Architecture with the course [**"Arquitectura Empresarial: De la Estrategia a la Tecnología"**](https://www.udemy.com/course/arquitectura-empresarial-de-la-estrategia-a-la-tecnologia/) by [Daniel Dughman Manzur](https://www.linkedin.com/in/ddughman/), on Udemy. I found it very good, and decided to build these skills to share what I learned with the community, as a study aid for enterprise architecture cases.
 
 **This repo does not solve the case.** It helps you shape the deliverables. Solving it takes study, understanding the context and weighing scenarios; these skills help you put that work into a first-draft structure that you then review, adjust and defend.
 
