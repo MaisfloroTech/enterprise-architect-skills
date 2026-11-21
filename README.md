@@ -9,8 +9,9 @@ Skills para arquitectos empresariales que resuelven casos reales paso a paso, en
 | # | Skill | Qué hace |
 |---|---|---|
 | 1 | [`ea-scope-and-objectives`](ea-scope-and-objectives/README.md) | Alcance, objetivo general, objetivos con responsable y plazo en días, compromiso de 90 días y preguntas abiertas |
+| 2 | [`ea-stakeholder-map`](ea-stakeholder-map/README.md) | Mapa de stakeholders con redacción política: poder, postura, intereses, riesgos, qué conversar en la 1:1, afinidades y levantamiento de 14 días |
 
-More skills coming: stakeholders, key findings, capability map, maturity, prioritisation, integration decision, one-to-one conversations and governance.
+More skills coming: key findings, capability map, maturity, prioritisation, integration decision, one-to-one conversations and governance.
 
 ## Install
 

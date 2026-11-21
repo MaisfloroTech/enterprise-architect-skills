@@ -16,9 +16,12 @@
     "smart-goals",
     "roadmap",
     "case-study",
-    "interview-prep"
+    "interview-prep",
+    "stakeholders",
+    "stakeholder-map"
   ],
   "skills": [
-    "./ea-scope-and-objectives"
+    "./ea-scope-and-objectives",
+    "./ea-stakeholder-map"
   ]
 }
