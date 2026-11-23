@@ -1,11 +1,11 @@
 ---
-name: 9-ea-internal-presentation-team
+name: ea-internal-presentation-team
 description: Turns a closed enterprise architecture case into a short internal presentation for the Enterprise Architecture team - how you studied the case and how you would lead it. Delivers a deck of about 14 slides in a fixed story (cover, scenario, facts, stakeholders as one team, risks per conversation, scope and objectives, plan for days 0-30 and 30-90, capabilities with owners, the architecture decision, traffic-light escalation with plan B, questions and resources), with few words per slide, facts only and speaker notes with the message and timing of each slide. Use this whenever someone needs to present an architecture case, a merger or integration proposal, an interview case or a review to an architecture team or panel, or asks to turn the case deliverables into slides, even if they never say "deck". Never invents facts.
 ---
 
 # EA internal presentation to the team
 
-**Step 9 of the case method.** Previous: `8-ea-glossary`. Use what was closed in steps 1 to 8. If `ea-unified-case-excel` already built the workbook, the presentation points to it as the artifact delivered at the end.
+**After the case method.** Use it once steps 1 to 8 are closed (last one: `8-ea-glossary`). Use what was closed in steps 1 to 8. If `ea-unified-case-excel` already built the workbook, the presentation points to it as the artifact delivered at the end.
 
 Help an enterprise architect present the case to the **Enterprise Architecture team** (peers, leaders or an interview panel) in about 30 minutes: what they studied and how they would lead it. The slides tell the story; the detail lives in the artifact and in the speaker notes.
 

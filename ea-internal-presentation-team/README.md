@@ -1,6 +1,6 @@
 [← Todas las skills](../README.md)
 
-# 🎤 9-ea-internal-presentation-team
+# 🎤 ea-internal-presentation-team
 
 *Con el caso cerrado → cómo lo estudiaste y cómo lo llevarías, en una presentación al equipo de Arquitectura Empresarial.*
 

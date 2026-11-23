@@ -4,7 +4,7 @@ Mismo caso ficticio que los pasos 1 a 8: Transportes Cóndor compró EnvíoYa pa
 
 ---
 
-## 9. Presentación interna al equipo de Arquitectura Empresarial
+## Presentación interna al equipo de Arquitectura Empresarial
 
 Duración: 30 minutos, con 5 para preguntas.
 
