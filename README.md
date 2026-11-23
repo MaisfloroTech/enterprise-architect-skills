@@ -22,6 +22,7 @@ He estado estudiando Arquitectura Empresarial con el curso [**"Arquitectura Empr
 6. **`6-ea-governance`: ¿cómo decidimos y avanzamos juntos?** Diseña la primera reunión y el gobierno: comité, frentes de trabajo, cadencias, reporte semanal y escalada.
 7. **`7-ea-next-steps-and-plan-b`: ¿qué sigue y qué pasa si sale mal?** Define los próximos pasos de los días 15 a 90 y el plan B si la primera reunión no funciona.
 8. **`8-ea-glossary`: ¿hablamos todos el mismo idioma?** Explica quién es quién y qué significa cada término, sin siglas sueltas.
+9. **`9-ea-internal-presentation-team`: ¿cómo lo presento?** Convierte el caso cerrado en una presentación interna al equipo de Arquitectura Empresarial, con pocas palabras por slide y notas del orador.
 
 Al final, **`ea-unified-case-excel`** junta todos los puntos cerrados en un solo Excel, con una pestaña por punto. Solo unifica: no crea contenido.
 
@@ -39,6 +40,7 @@ El número de cada nombre es el orden en que se usan en un caso.
 | 6 | [`6-ea-governance`](6-ea-governance/README.md) | Primera reunión del comité y gobierno: estructura, frentes, cadencias, reporte semanal, semáforo con escalada y registro de riesgos |
 | 7 | [`7-ea-next-steps-and-plan-b`](7-ea-next-steps-and-plan-b/README.md) | Próximos pasos por frente de los días 15 a 90 y plan B si la primera reunión sale mal, con relanzamiento con el CEO (Chief Executive Officer) |
 | 8 | [`8-ea-glossary`](8-ea-glossary/README.md) | Glosario: personas con su cargo y rol, y términos del caso; ninguna sigla queda sin su nombre completo |
+| 9 | [`9-ea-internal-presentation-team`](9-ea-internal-presentation-team/README.md) | Presentación interna al equipo de Arquitectura Empresarial: unas 14 slides con pocas palabras, solo hechos y notas del orador con mensaje y tiempo |
 | — | [`ea-unified-case-excel`](ea-unified-case-excel/README.md) | Une los puntos cerrados en un solo Excel, una pestaña por punto. Solo unifica: cada punto se construye con su propia skill |
 
 ## Instalación
@@ -76,6 +78,7 @@ Use them in order, one per point of the case. Each skill builds on what you clos
 6. **`6-ea-governance`: how do we decide and move forward together?** It designs the first meeting and the governance: committee, workstreams, cadence, weekly report and escalation.
 7. **`7-ea-next-steps-and-plan-b`: what comes next, and what if it goes wrong?** It sets the next steps from day 15 to 90 and the plan B if the first meeting does not work.
 8. **`8-ea-glossary`: are we all speaking the same language?** It explains who is who and what each term means, with no loose acronyms.
+9. **`9-ea-internal-presentation-team`: how do I present it?** It turns the closed case into an internal presentation to the Enterprise Architecture team, with few words per slide and speaker notes.
 
 At the end, **`ea-unified-case-excel`** puts every closed point in one Excel workbook, one tab per point. It only unifies: it creates no content.
 
@@ -93,6 +96,7 @@ The number in each name is the order to use them in a case.
 | 6 | [`6-ea-governance`](6-ea-governance/README.md#english) | First committee meeting and governance: structure, workstreams, cadence, weekly report, traffic light with escalation and risk register |
 | 7 | [`7-ea-next-steps-and-plan-b`](7-ea-next-steps-and-plan-b/README.md#english) | Next steps per workstream from day 15 to 90 and a plan B if the first meeting goes wrong, with a relaunch with the CEO (Chief Executive Officer) |
 | 8 | [`8-ea-glossary`](8-ea-glossary/README.md#english) | Glossary: people with their job title and role, and the terms of the case; no acronym without its full name |
+| 9 | [`9-ea-internal-presentation-team`](9-ea-internal-presentation-team/README.md#english) | Internal presentation to the Enterprise Architecture team: about 14 slides with few words, facts only and speaker notes with message and timing |
 | — | [`ea-unified-case-excel`](ea-unified-case-excel/README.md#english) | Puts the closed points in one Excel workbook, one tab per point. It only unifies: each point is built with its own skill |
 
 ### Install

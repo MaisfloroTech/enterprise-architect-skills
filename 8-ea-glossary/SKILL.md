@@ -5,7 +5,7 @@ description: Writes the glossary of an enterprise architecture case, merger, int
 
 # EA glossary
 
-**Step 8 of the case method.** Previous: `7-ea-next-steps-and-plan-b`. Then: `ea-unified-case-excel` to put every closed point in one workbook. Use the people from `2-ea-stakeholder-map`, the owners from `4-ea-capabilities` and every term that appears in steps 1 to 7.
+**Step 8 of the case method.** Previous: `7-ea-next-steps-and-plan-b`. Next: `9-ea-internal-presentation-team` to present the case. Use `ea-unified-case-excel` to put every closed point in one workbook. Use the people from `2-ea-stakeholder-map`, the owners from `4-ea-capabilities` and every term that appears in steps 1 to 7.
 
 Help an enterprise architect close the case with a shared vocabulary: who is who, and what each word means, so nobody has to decode jargon or acronyms in the middle of a meeting.
 
